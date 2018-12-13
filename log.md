@@ -1,22 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 12, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Mentally prepared for the start of the challenge for the most part today. Also, I gathered notes on how I would attack the challenge since I won't be taking on the freecodingcamp.com's cirriculum. I'll be doing various courses from EdX and codecademy.com. Simce it's nearly midnight, I'm about to sleep. Excited to start this challenge tomorrow!
 
 
 ### Day 1: June 27, Monday
