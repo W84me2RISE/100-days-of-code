@@ -7,7 +7,7 @@ Mentally prepared for the start of the challenge for the most part today. Also, 
 
 ### Day 1: December 13, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp for HTML5 code, codecademy's c++ coding course, and I've.
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp for HTML5 code, and codecademy's c++ coding course.
 
 **Thoughts** I've recently started coding again, and it's a great feeling when I finally solve a challenge after a lot fo time away from my computer.
 
